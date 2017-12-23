@@ -1,1 +1,1 @@
-# magnusbeck.github.io
+# Sample website
