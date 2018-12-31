@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'COSAB B1S VM Pool'
+  vmImage: 'Default'
 
 steps:
 - script: echo Hello, world!
