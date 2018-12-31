@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Azure VM'
+  vmImage: 'Hosted'
 
 steps:
 - script: echo Hello, world!
